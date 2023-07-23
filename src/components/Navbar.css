@@ -1,0 +1,28 @@
+.custom-style{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.cart-badge{
+    position: relative;
+    top: -10px;
+    right: 5px;
+    border: none;
+    height: 1rem;
+    width: 1rem;
+    color: white;
+    border-radius: 0.5rem;
+    background-color: red;
+    font-size: 0.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cart{
+    text-decoration: none;
+    color: black;
+}
+
